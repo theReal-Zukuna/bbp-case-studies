@@ -6,3 +6,4 @@ https://www.youtube.com/watch?v=B6QZ6wrFiE0&t=3139s (first 43 min) <br>
 https://www.youtube.com/watch?v=fpW-h9uT6Uo <br>
 https://hackerone.com/reports/1114347 <br>
 https://hackerone.com/reports/1212374 <br>
+https://hackerone.com/reports/3081691 <br>
