@@ -13,4 +13,4 @@ https://www.youtube.com/watch?v=QEyOJ86dpz0  <br>
 https://www.youtube.com/watch?v=roNUusZow48 <br>
 https://www.youtube.com/watch?v=7Rd0Z1w8sXw (removing the token value when sending the email verification request is accepted) <br>
 https://www.youtube.com/watch?v=28T8Y6gJRVY (pasword reset flow lead to account take over - similar to the famous gitlab double email injection vulnerability)<br>
-https://www.youtube.com/watch?v=0R3xHx7fPUM <br>
+https://www.youtube.com/watch?v=0R3xHx7fPUM (used the same jwt token from dev server in the prod server and was accepted (audience vulnerability))<br>
