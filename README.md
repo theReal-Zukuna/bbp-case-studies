@@ -11,3 +11,4 @@ https://hackerone.com/reports/1245762 Account Takeover via SMS Authentication Fl
 https://www.youtube.com/watch?v=1mOEUUKLXWs <br>
 https://www.youtube.com/watch?v=QEyOJ86dpz0  <br> 
 https://www.youtube.com/watch?v=roNUusZow48 <br>
+https://www.youtube.com/watch?v=7Rd0Z1w8sXw (removing the token value when sending the verification request is accepted) <br>
