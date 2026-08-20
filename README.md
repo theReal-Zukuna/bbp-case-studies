@@ -17,3 +17,4 @@ https://www.youtube.com/watch?v=0R3xHx7fPUM (used the same jwt token from dev se
 https://www.youtube.com/watch?v=UiNdild6gCQ (attacker can inject victim id during account creation-->victim account should be 'created again' because it no longer work properly -->attacker register a new account with the victim email  and wait for the victim verification for the email --> he can access it with the password he set)(interesting) <br>
 https://www.youtube.com/watch?v=xb4klJDM2l0 (password reset flow -> ato ,set the reset token value to null) <br>
 https://www.youtube.com/watch?v=VLgB2fDEMVg (a critical Oauth vuln where the custom Oauth provider enabled unauthorized clients registrations which lead to token theft) (interesting) <br>
+https://hackerone.com/reports/922456 (bypassing the requirement that accounts from resource server should be email-verified during the oauth flow (oauth provider bug )) (interesting)<br>
