@@ -18,3 +18,4 @@ https://www.youtube.com/watch?v=UiNdild6gCQ (attacker can inject victim id durin
 https://www.youtube.com/watch?v=xb4klJDM2l0 (password reset flow -> ato ,set the reset token value to null) <br>
 https://www.youtube.com/watch?v=VLgB2fDEMVg (a critical Oauth vuln where the custom Oauth provider enabled unauthorized clients registrations which lead to token theft) (interesting) <br>
 https://hackerone.com/reports/922456 (bypassing the requirement that accounts from resource server should be email-verified during the oauth flow (oauth provider bug )) (interesting)<br>
+https://hackerone.com/reports/1148364 (a user who is just a group owner can create trusted applications (which is instance admin priviliege) which let his apps (clients) being auto-trusted during the oauth flow and granted the code to the redirect uri without user consent) <br>
