@@ -20,3 +20,4 @@ https://www.youtube.com/watch?v=VLgB2fDEMVg (a critical Oauth vuln where the cus
 https://hackerone.com/reports/922456 (bypassing the requirement that accounts from resource server should be email-verified during the oauth flow (oauth provider bug )) (interesting)<br>
 https://hackerone.com/reports/1148364 (a user who is just a group owner can create trusted applications (which is instance admin priviliege) which let his apps (clients) being auto-trusted during the oauth flow and granted the code to the redirect uri without user consent) <br>
 https://hackerone.com/reports/685007 (password reset link not expired after email changing -> scenarios include the fact that someone can create an account for a target with temporary email that the victim should change so the account "become his account" but this vuln can be a backdoor) (boring) <br>
+http://hackerone.com/reports/202781 (good) <br>
