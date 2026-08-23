@@ -21,3 +21,13 @@ https://hackerone.com/reports/922456 (bypassing the requirement that accounts fr
 https://hackerone.com/reports/1148364 (a user who is just a group owner can create trusted applications (which is instance admin priviliege) which let his apps (clients) being auto-trusted during the oauth flow and granted the code to the redirect uri without user consent) <br>
 https://hackerone.com/reports/685007 (password reset link not expired after email changing -> scenarios include the fact that someone can create an account for a target with temporary email that the victim should change so the account "become his account" but this vuln can be a backdoor) (boring) <br>
 http://hackerone.com/reports/202781 (good) <br>
+https://www.youtube.com/watch?v=ej2O4lOUzRc <br>
+https://www.youtube.com/watch?v=mV7qOw0iFew <br>
+https://www.youtube.com/watch?v=DXIOQZpS25U <br>
+https://www.youtube.com/watch?v=evyxNUzl-HA <br>
+https://www.youtube.com/watch?v=IVMO7fw0cJw&pp=0gcJCRMMAYcqIYzv <br>
+https://www.youtube.com/watch?v=9CiDsOI-p1s <br>
+https://www.youtube.com/watch?v=H7AjEMqcXNY <br>
+https://www.youtube.com/watch?v=bVL_m0qeZh0 <br>
+https://www.youtube.com/watch?v=6mVMVLYKBYI <br>
+https://www.youtube.com/watch?v=NgduHjyxg4E <br>
