@@ -42,3 +42,4 @@ https://www.youtube.com/watch?v=hwhdzJXkI10 <br>
 https://www.youtube.com/watch?v=sW9SK0ZcHxU <br>
 https://hackerone.com/reports/322985  (similar to the famous gitlab reset password vulnerability) <br>
 https://www.youtube.com/watch?v=rE3gN9tENTo <br>
+https://www.youtube.com/watch?v=xxU6mq4JoNo <br>
