@@ -43,3 +43,4 @@ https://www.youtube.com/watch?v=sW9SK0ZcHxU <br>
 https://hackerone.com/reports/322985  (similar to the famous gitlab reset password vulnerability) <br>
 https://www.youtube.com/watch?v=rE3gN9tENTo <br>
 https://www.youtube.com/watch?v=xxU6mq4JoNo <br>
+https://hackerone.com/reports/3445710 (Broken Access Control allows advertiser accounts to delete trackers they do not own) <br> 
