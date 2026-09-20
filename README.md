@@ -47,3 +47,4 @@ https://hackerone.com/reports/3445710 (Broken Access Control allows advertiser a
 https://www.youtube.com/watch?v=3O1U9zfT0dQ (stupid hunter) <br>
 https://www.youtube.com/watch?v=e_WYif-EtdM <br>
 https://www.youtube.com/watch?v=eFYE_iLmEhY <br>
+https://hackerone.com/reports/3599470  (stupid bug , ui-denial of service by injecting long text instead of emojie)<br>
