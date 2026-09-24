@@ -49,3 +49,4 @@ https://www.youtube.com/watch?v=e_WYif-EtdM <br>
 https://www.youtube.com/watch?v=eFYE_iLmEhY <br>
 https://hackerone.com/reports/3599470  (stupid bug , ui-denial of service by injecting long text instead of emojie)<br>
 https://www.youtube.com/watch?v=4CNEgTDXI-U <br>
+https://www.youtube.com/watch?v=HcrQy0C-hEA (Amazing XS-Search ctf)<br>
