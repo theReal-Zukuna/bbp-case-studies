@@ -53,3 +53,4 @@ https://www.youtube.com/watch?v=HcrQy0C-hEA (Amazing XS-Search ctf)<br>
 https://hackerone.com/reports/4000185 <br>
 https://hackerone.com/reports/3674940 <br>
 https://hackerone.com/reports/3484601 (detailed report but exaggerated and greedy severity assessment from the reporters)<br>
+https://hackerone.com/reports/3533697 <br>
