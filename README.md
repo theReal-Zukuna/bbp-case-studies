@@ -51,3 +51,4 @@ https://hackerone.com/reports/3599470  (stupid bug , ui-denial of service by inj
 https://www.youtube.com/watch?v=4CNEgTDXI-U <br>
 https://www.youtube.com/watch?v=HcrQy0C-hEA (Amazing XS-Search ctf)<br>
 https://hackerone.com/reports/4000185 <br>
+https://hackerone.com/reports/3674940 <br>
