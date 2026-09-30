@@ -58,3 +58,4 @@ https://hackerone.com/reports/3303283 <br>
 https://hackerone.com/reports/3617729 <br>
 https://hackerone.com/reports/3610332 (next cloud was too generous to accept this as a realistic exploitable vulnerability) <br>
 https://hackerone.com/reports/2081930 <br>
+https://hackerone.com/reports/1338256 (bypass of terms of service lol) <br>
