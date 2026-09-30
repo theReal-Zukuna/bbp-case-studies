@@ -56,3 +56,4 @@ https://hackerone.com/reports/3484601 (detailed report but exaggerated and greed
 https://hackerone.com/reports/3533697 <br>
 https://hackerone.com/reports/3303283 <br>
 https://hackerone.com/reports/3617729 <br>
+https://hackerone.com/reports/3610332 (next cloud was too generous to accept this as a realistic exploitable vulnerability) <br>
