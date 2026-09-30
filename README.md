@@ -57,3 +57,4 @@ https://hackerone.com/reports/3533697 <br>
 https://hackerone.com/reports/3303283 <br>
 https://hackerone.com/reports/3617729 <br>
 https://hackerone.com/reports/3610332 (next cloud was too generous to accept this as a realistic exploitable vulnerability) <br>
+https://hackerone.com/reports/2081930 <br>
