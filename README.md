@@ -60,3 +60,4 @@ https://hackerone.com/reports/3610332 (next cloud was too generous to accept thi
 https://hackerone.com/reports/2081930 <br>
 https://hackerone.com/reports/1338256 (bypass of terms of service lol) <br>
 https://hackerone.com/reports/3770482 (detailed and interesting report regarding permanent locking of files) <br>
+https://hackerone.com/reports/3862641 (critical hackerone vulnerability where it describe leaked data through 403 error response) <br>
